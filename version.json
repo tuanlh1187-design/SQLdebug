@@ -1,0 +1,5 @@
+{
+  "version": "1.5",
+  "url": "https://github.com/tuanlh1187-design/SQLdebug/releases/latest",
+  "note": "Idle timeout phien debug, canh bao BEGIN TRAN, monitor tu reconnect"
+}
